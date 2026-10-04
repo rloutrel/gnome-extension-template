@@ -63,6 +63,13 @@ pure module to taste, and commit.
    gnome-extensions enable template@rloutrel.github.com
    ```
 
+## Keeping derived projects in sync
+
+Projects created from this template track absorbed changes with a
+`.template-sync.json` manifest and `template/v*` tags. See
+[`TEMPLATE_SYNC.md`](TEMPLATE_SYNC.md) for the tag convention, the manifest
+format and both sync procedures (template → consumer and backport).
+
 ## Repository layout
 
 ```text
