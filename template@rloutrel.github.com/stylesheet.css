@@ -1,0 +1,12 @@
+/* --------------------------------------------------------------
+ * Template extension stylesheet.
+ *
+ * Uses theme-aware color variables from the GNOME Shell theme so
+ * that colors adapt automatically to dark/light mode.  No
+ * hardcoded colors.
+ * -------------------------------------------------------------- */
+
+/* Menu label example */
+.template-menu-label {
+    font-weight: bold;
+}

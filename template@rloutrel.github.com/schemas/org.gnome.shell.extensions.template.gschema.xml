@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.template"
+          path="/org/gnome/shell/extensions/template/">
+    <key name="sample-boolean" type="b">
+      <default>false</default>
+      <summary>Sample boolean setting</summary>
+      <description>Example boolean setting demonstrated in the preferences window</description>
+    </key>
+  </schema>
+</schemalist>
