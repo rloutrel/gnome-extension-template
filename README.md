@@ -55,8 +55,7 @@ pure module to taste, and commit.
        ~/.local/share/gnome-shell/extensions/
    ```
 
-2. Restart GNOME Shell (`Alt+F2` → `r` → `Enter` on X11, or log out and back
-   in on Wayland).
+2. Restart GNOME Shell by logging out and back in (Wayland only).
 3. Enable the extension:
 
    ```bash
